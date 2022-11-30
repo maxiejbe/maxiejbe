@@ -6,4 +6,4 @@
 
 :bust_in_silhouette: [Linkedin](https://www.linkedin.com/in/maximiliano-ejberowicz-5b244b30/)
 
-:email: Reach me at: maxi@codeait.com
+:email: Reach me at: maxiejbe92@gmail.com
