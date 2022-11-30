@@ -1,6 +1,6 @@
 ### Maximiliano Ejberowicz 👋
 
-:office: Co Founder at [Codea IT](https://codeait.com)
+:office: Co Founder & CTO at [Almaya](https://almayalife.com) / Board of directors at [Codea IT](https://codeait.com)
 
 :computer: Tech lead (Node.js, NET Core)
 
